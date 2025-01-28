@@ -1,0 +1,101 @@
+OPIS Truckstop ID,Truckstop Name,Address,City,State,Rack ID,Retail Price,Full_Address,Latitude,Longitude,Geocoding_Status
+7,WOODSHED OF BIG CABIN,"I-44, EXIT 283 & US-69",Big Cabin,OK,307,3.00733333,"I-44, EXIT 283 & US-69, Big Cabin, OK",35.526143,-97.52937,Success
+9,KWIK TRIP #796,"I-94, EXIT 143 & US-12 & SR-21",Tomah,WI,420,3.28733333,"I-94, EXIT 143 & US-12 & SR-21, Tomah, WI",44.36605,-89.699773,Success
+20,PILOT TRAVEL CENTER #1243,"I-8, EXIT 119 & SR-85",Gila Bend,AZ,930,3.899,"I-8, EXIT 119 & SR-85, Gila Bend, AZ",32.945296,-112.692243,Success
+20,PILOT #1243,"I-8, EXIT 119 & SR-85",Gila Bend,AZ,930,3.899,"I-8, EXIT 119 & SR-85, Gila Bend, AZ",32.945296,-112.692243,Success
+28,LITTLEFIELD EXPRESS #2,"I-540, EXIT 12 & US-71",Fort Smith,AR,645,3.399,"I-540, EXIT 12 & US-71, Fort Smith, AR",35.272414,-94.371335,Success
+35,ACI TRUCK STOP,US-46,Columbia,NJ,90,3.079,"US-46, Columbia, NJ",40.9251739,-75.0910963,Success
+36,SHENANDOAH TRUCK CENTER,"I-81, EXIT 273 & SR-703/SR-292",Mount Jackson,VA,60,2.899,"I-81, EXIT 273 & SR-703/SR-292, Mount Jackson, VA",38.785693,-78.680304,Success
+44,CIRCLE K #2612042,"I-35,  EXIT 271",Jarrell,TX,595,2.919,"I-35,  EXIT 271, Jarrell, TX",29.881728,-97.923012,Success
+46,PETRO STOPPING CENTER #348,"I-85,  EXIT 22 & CR-138",Shorter,AL,720,3.154,"I-85,  EXIT 22 & CR-138, Shorter, AL",32.367365,-85.86255,Success
+49,TA SEYMOUR TRAVEL CENTER,"I-65, EXIT 50 & US-50 & US-31",Seymour,IN,415,3.959,"I-65, EXIT 50 & US-50 & US-31, Seymour, IN",38.966946,-85.797229,Success
+50,TA COUNCIL BLUFFS TRAVEL CENTER,"I-29 & I-80, EXIT 3",Council Bluffs,IA,319,3.72566666,"I-29 & I-80, EXIT 3, Council Bluffs, IA",41.261961,-95.890738,Success
+56,TOPS TRUCK STOP,"I-94, EXIT 182 & US-83",Sterling,ND,390,3.51566666,"I-94, EXIT 182 & US-83, Sterling, ND",46.84975,-100.919658,Success
+75,Good 2 Go #709,US-50,Montrose,CO,810,3.424,"US-50, Montrose, CO",38.6649117,-107.9966326,Success
+77,OASIS TRAVEL PLAZA,US-13,Laurel,DE,243,3.229,"US-13, Laurel, DE",38.590617,-75.5753922,Success
+79,DELAWARE TRUCK PLAZA,US-13 & US-40,New Castle                              ,DE,243,3.249,"US-13 & US-40, New Castle                              , DE",39.694296,-75.5338705,Success
+81,One9 #89,"I-75, EXIT 224",Ellenton,FL,225,3.439,"I-75, EXIT 224, Ellenton, FL",27.51952,-82.723404,Success
+85,DOWNIEVILLE FUEL STOP,"I-70, EXIT 234",Dumont,CO,800,3.459,"I-70, EXIT 234, Dumont, CO",39.61818,-106.073066,Success
+91,MOLLYS FOOD & FUEL,"I-20 & ST 22, EXIT 55",Crawfordville                           ,GA,135,3.499,"I-20 & ST 22, EXIT 55, Crawfordville                           , GA",33.553505,-82.897305,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.269,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.339,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.429,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.289,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.399,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,260,3.299,"I-75, EXIT 144-B, Bridgeport, MI",43.551586,-83.944622,Success
+118,Lupton Truck Stop #567,"I-40, EXIT 359",Lupton,AZ,580,3.299,"I-40, EXIT 359, Lupton, AZ",35.35391,-109.0537,Success
+121,PETRO STOPPING CENTER #306,"I-10, EXIT 200",Eloy,AZ,930,3.474,"I-10, EXIT 200, Eloy, AZ",32.759405,-111.550546,Success
+127,CIRCLE K #4700095,US-41,Henderson,KY,340,3.609,"US-41, Henderson, KY",37.9116243,-87.5485806,Success
+128,THE EFFINGHAM CHROME SHOP,"I-57 & I-70, EXIT 159",Effingham                               ,IL,510,3.399,"I-57 & I-70, EXIT 159, Effingham                               , IL",39.12004,-88.54338,Success
+128,THE EFFINGHAM CHROME SHOP,"I-57 & I-70, EXIT 159",Effingham                               ,IL,510,3.349,"I-57 & I-70, EXIT 159, Effingham                               , IL",39.12004,-88.54338,Success
+128,THE EFFINGHAM CHROME SHOP,"I-57 & I-70, EXIT 159",Effingham                               ,IL,510,3.549,"I-57 & I-70, EXIT 159, Effingham                               , IL",39.12004,-88.54338,Success
+135,LOVES TRAVEL STOP #766,"I-80, EXIT 27",Atkinson,IL,290,3.589,"I-80, EXIT 27, Atkinson, IL",41.505811,-90.429696,Success
+135,LOVES TRAVEL STOP #766,"I-80, EXIT 27",Atkinson,IL,290,3.389,"I-80, EXIT 27, Atkinson, IL",41.505811,-90.429696,Success
+135,LOVES TRAVEL STOP #766,"I-80, EXIT 27",Atkinson,IL,290,3.449,"I-80, EXIT 27, Atkinson, IL",41.505811,-90.429696,Success
+147,SPEEDWAY #8039,"I-69, EXIT 234 & SR-67",Daleville,IN,375,3.624,"I-69, EXIT 234 & SR-67, Daleville, IN",39.901917,-85.576551,Success
+149,RAYS TRUCK WASH,"I-69, EXIT 309 & US-30",Fort Wayne                              ,IN,370,3.59233333,"I-69, EXIT 309 & US-30, Fort Wayne                              , IN",40.992368,-85.267983,Success
+151,CUBBYS #2101,"I-80, EXIT 211 & SR-47",Gothenburg,NE,475,3.13233333,"I-80, EXIT 211 & SR-47, Gothenburg, NE",40.821225,-96.967941,Success
+159,PILOT TRAVEL CENTER #87,"I-10, EXIT 343",Jacksonville,FL,75,3.859,"I-10, EXIT 343, Jacksonville, FL",30.33218,-81.65565,Success
+159,PILOT TRAVEL CENTERS #87,"I-10, EXIT 343",Jacksonville,FL,75,3.859,"I-10, EXIT 343, Jacksonville, FL",30.33218,-81.65565,Success
+160,PILOT TRAVEL CENTERS #79,"I-12, EXIT 10 AT MILE 10",Denham Springs                          ,LA,600,3.23233333,"I-12, EXIT 10 AT MILE 10, Denham Springs                          , LA",30.364826,-90.568322,Success
+164,FLYING J TRAVEL PLAZA #650,"I-94, EXIT 15 B",Lake Station                            ,IN,365,3.809,"I-94, EXIT 15 B, Lake Station                            , IN",41.586933,-87.304499,Success
+167,FLYING J TRAVEL PLAZA #653,RT 2 & I-65 EXIT 240,Hebron,IN,365,3.43566666,"RT 2 & I-65 EXIT 240, Hebron, IN",41.398171,-87.164176,Success
+174,Hop-In Food Stores,US-59 & SR-224,Nacogdoches                             ,TX,618,2.859,"US-59 & SR-224, Nacogdoches                             , TX",31.558383,-94.504452,Success
+184,SAPP BROS TRAVEL CENTER,"I-29 & I-80, EXIT 1B",Council Bluffs,IA,486,3.719,"I-29 & I-80, EXIT 1B, Council Bluffs, IA",41.261961,-95.890738,Success
+186,COFFEE CUP FUEL STOP #5,"I-90, EXIT 154 & US-16",Moorcroft                               ,WY,822,3.239,"I-90, EXIT 154 & US-16, Moorcroft                               , WY",44.284859,-105.05798,Success
+187,DUDLEYS CORNER,"I-35, EXIT 165 & SR-3",Latimer,IA,433,3.23233333,"I-35, EXIT 165 & SR-3, Latimer, IA",43.134184,-93.433109,Success
+191,KUM & GO #0302,"I-35, EXIT 193 & SR 106",Clear Lake,IA,433,3.18566666,"I-35, EXIT 193 & SR 106, Clear Lake, IA",43.134184,-93.433109,Success
+192,Brew Stuart Truckstop,"I-80, EXIT 93",Stuart                                  ,IA,320,3.099,"I-80, EXIT 93, Stuart                                  , IA",41.580022,-93.443198,Success
+195,PETRO STOPPING CENTER #311,"I-40 & I-55, EXIT 280",West Memphis,AR,435,3.36733333,"I-40 & I-55, EXIT 280, West Memphis, AR",35.164588,-90.211895,Success
+198,SINCLAIR,"I-76, EXIT 115",Atwood,CO,800,3.299,"I-76, EXIT 115, Atwood, CO",40.239778,-104.071635,Success
+199,PETRO STOPPING CENTER #366,"I-70, EXIT 252",Salina,KS,523,3.80566666,"I-70, EXIT 252, Salina, KS",38.876244,-97.615971,Success
+203,PILOT TRAVEL CENTER #31,"I-80/94, EXIT 2",Highland,IN,365,3.829,"I-80/94, EXIT 2, Highland, IN",41.55365,-87.45198,Success
+203,PILOT TRAVEL CENTERS #31,"I-80/94, EXIT 2",Highland,IN,365,3.799,"I-80/94, EXIT 2, Highland, IN",41.55365,-87.45198,Success
+207,MARATHON,SR-32,Sardinia                                ,OH,300,3.56566666,"SR-32, Sardinia                                , OH",38.9901446,-83.7627532,Success
+216,CIRCLE K #2721593,"I-10, EXIT 50",Ocean Springs,MS,715,3.41566666,"I-10, EXIT 50, Ocean Springs, MS",34.344944,-88.926526,Success
+217,NORTH 9TH 24/7,"I-70, EXIT 252",Salina,KS,523,3.02566666,"I-70, EXIT 252, Salina, KS",38.876244,-97.615971,Success
+231,DERBY CITYS TRUCK PLAZA,"I-75, EXIT 62 & US-25",Mount Vernon,KY,410,2.999,"I-75, EXIT 62 & US-25, Mount Vernon, KY",37.10412,-88.002826,Success
+235,PILOT TRAVEL CENTERS #92,"I-75, EXIT 358",Ocala,FL,225,3.359,"I-75, EXIT 358, Ocala, FL",29.040472,-82.16227,Success
+235,PILOT TRAVEL CENTER #92,"I-75, EXIT 358",Ocala,FL,225,3.41233333,"I-75, EXIT 358, Ocala, FL",29.040472,-82.16227,Success
+240,LA 1 SOUTH TRUCKSTOP,"I-10, EXIT 153 & SR-1",Port Allen,LA,600,3.039,"I-10, EXIT 153 & SR-1, Port Allen, LA",30.453314,-91.276058,Success
+243,SAVE,US-41 & SR-10,Lake Village,IN,399,3.179,"US-41 & SR-10, Lake Village, IN",41.1447707,-87.4306525,Success
+244,BIG D TRUCK TRAVEL PLAZA,"I-10, EXIT 92 & SR-95",Duson,LA,725,2.98233333,"I-10, EXIT 92 & SR-95, Duson, LA",32.805022,-93.420043,Success
+248,Mardi Gras Truck Stop,"I-10, EXIT 236",New Orleans,LA,725,3.729,"I-10, EXIT 236, New Orleans, LA",29.974569,-90.111278,Success
+250,GOLDEN OX TRUCK STOP,"I-70/US-40, EXIT 159 & US-183",Hays,KS,523,3.499,"I-70/US-40, EXIT 159 & US-183, Hays, KS",39.211231,-98.620333,Success
+253,LOVES TRAVEL STOP #450,"I-40, EXIT 280 & I-55, EXIT 4",West Memphis,AR,435,3.32566666,"I-40, EXIT 280 & I-55, EXIT 4, West Memphis, AR",35.164588,-90.211895,Success
+256,BFS FOODS #66,"I-68/US-40, EXIT 22 & US-219",Grantsville                             ,MD,165,3.899,"I-68/US-40, EXIT 22 & US-219, Grantsville                             , MD",38.890895,-76.903472,Success
+257,PILOT TRAVEL CENTER #917- TOWN PUMP,I-15 & 31ST STREET EXIT 277,Great Falls                             ,MT,815,3.63566666,"I-15 & 31ST STREET EXIT 277, Great Falls                             , MT",47.50507,-111.253778,Success
+263,CASEYS #3956,I-94 EXIT 16,Bridgman,MI,465,3.559,"I-94 EXIT 16, Bridgman, MI",41.9433822,-86.5670076,Success
+267,CORNER MARKET #117,SR-154 & SR-129,Dodge City,KS,357,3.399,"SR-154 & SR-129, Dodge City, KS",37.690531,-99.902421,Success
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe                                  ,MI,325,3.299,"I-75, EXIT 15, Monroe                                  , MI",42.061983,-83.258969,Success
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe                                  ,MI,325,3.249,"I-75, EXIT 15, Monroe                                  , MI",42.061983,-83.258969,Success
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe                                  ,MI,325,3.439,"I-75, EXIT 15, Monroe                                  , MI",42.061983,-83.258969,Success
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe                                  ,MI,325,3.349,"I-75, EXIT 15, Monroe                                  , MI",42.061983,-83.258969,Success
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe                                  ,MI,325,3.559,"I-75, EXIT 15, Monroe                                  , MI",42.061983,-83.258969,Success
+278,CARLISLE PLAZA,US-41,Carlisle,IN,510,3.499,"US-41, Carlisle, IN",38.9370797,-87.4186428,Success
+281,CIRCLE K #4700065,"I-65, EXIT 76 & US-31",Taylorsville,IN,375,3.399,"I-65, EXIT 76 & US-31, Taylorsville, IN",39.376065,-85.942543,Success
+289,LOVES TRAVEL STOP #173,"I-70, MM 209",Lawrence,KS,553,3.229,"I-70, MM 209, Lawrence, KS",38.992661,-95.269966,Success
+292,PETES #56,US-169 & CR-5000,Cherryvale,KS,307,3.23233333,"US-169 & CR-5000, Cherryvale, KS",37.266536,-95.527363,Success
+293,LOVES TRAVEL STOP #176,"I-35, MILE MARKER 97",Matfield Green,KS,336,3.25566666,"I-35, MILE MARKER 97, Matfield Green, KS",38.411155,-96.138528,Success
+304,FL Roberts,"I-91, EXIT 4",Springfield,MA,100,3.599,"I-91, EXIT 4, Springfield, MA",42.264842,-72.604539,Success
+309,QUIKTRIP #231,"I-635, EXIT 3",Kansas City,KS,400,3.199,"I-635, EXIT 3, Kansas City, KS",39.39261,-95.627691,Success
+323,SAPP BROS TRAVEL CENTER,"I-80, EXIT 126",Ogallala,NE,475,3.46566666,"I-80, EXIT 126, Ogallala, NE",40.821442,-96.929704,Success
+326,FLYING J TRAVEL PLAZA #748,"I-15, EXIT 357",Willard                                 ,UT,835,3.749,"I-15, EXIT 357, Willard                                 , UT",41.40911,-112.03606,Success
+341,TA JACKSONVILLE SOUTH TRAVEL CENTER,"I-95, EXIT 329",Saint Johns,FL,75,3.469,"I-95, EXIT 329, Saint Johns, FL",30.286482,-81.732464,Success
+347,7-ELEVEN #40514,I-90/80-IN TOLL RD MM 22E,Portage,IN,365,3.99066666,"I-90/80-IN TOLL RD MM 22E, Portage, IN",41.59811,-87.153786,Success
+358,TA BINGHAMTON TRAVELCENTER,"I-81N, EXIT 2W & I-81S, EXIT 3",Binghamton,NY,32,3.769,"I-81N, EXIT 2W & I-81S, EXIT 3, Binghamton, NY",40.786184,-73.981448,Success
+358,TA BINGHAMTON TRAVELCENTER,"I-81N, EXIT 2W & I-81S, EXIT 3",Binghamton,NY,32,3.689,"I-81N, EXIT 2W & I-81S, EXIT 3, Binghamton, NY",40.786184,-73.981448,Success
+358,TA BINGHAMTON TRAVELCENTER,"I-81N, EXIT 2W & I-81S, EXIT 3",Binghamton,NY,32,3.699,"I-81N, EXIT 2W & I-81S, EXIT 3, Binghamton, NY",40.786184,-73.981448,Success
+358,TA BINGHAMTON TRAVELCENTER,"I-81N, EXIT 2W & I-81S, EXIT 3",Binghamton,NY,32,3.739,"I-81N, EXIT 2W & I-81S, EXIT 3, Binghamton, NY",40.786184,-73.981448,Success
+361,CIRCLE K #2726293,"I-295, EXIT 25",Jacksonville,FL,75,3.31566666,"I-295, EXIT 25, Jacksonville, FL",30.33218,-81.65565,Success
+368,WILTON TRAVEL PLAZA,"I-87, EXIT 16",Gansevoort                              ,NY,12,3.749,"I-87, EXIT 16, Gansevoort                              , NY",40.782213,-73.959921,Success
+368,WILTON TRAVEL PLAZA,"I-87, EXIT 16",Gansevoort                              ,NY,12,3.799,"I-87, EXIT 16, Gansevoort                              , NY",40.782213,-73.959921,Success
+372,GAS DEPOT,"I-94, EXIT 5",Hammond,IN,365,3.999,"I-94, EXIT 5, Hammond, IN",41.5740794,-87.4743514,Success
+381,7-Eleven #41830,US-69 & US-135,Jacksonville,TX,630,2.91566666,"US-69 & US-135, Jacksonville, TX",32.0034517,-95.2768882,Success
+387,Circle K #2709664,"I-8, EXIT 12",Yuma,AZ,930,3.489,"I-8, EXIT 12, Yuma, AZ",32.713066,-114.623342,Success
+388,Pilot Travel Centers #14,"I-71, EXIT 131",Sunbury,OH,315,3.719,"I-71, EXIT 131, Sunbury, OH",40.349882,-82.921326,Success
+391,PILOT TRAVEL CENTERS #13,"I-71, EXIT 209",Seville,OH,305,3.699,"I-71, EXIT 209, Seville, OH",41.091554,-81.812593,Success
+403,TRUCKOMAT OF HEBRON,"I-70, EXIT 126 & SR-37",Hebron,OH,315,3.429,"I-70, EXIT 126 & SR-37, Hebron, OH",40.493879,-82.30637,Success
+407,FUEL MART #641,"I-80 & I-280, EXIT 71",Perrysburg                              ,OH,550,3.499,"I-80 & I-280, EXIT 71, Perrysburg                              , OH",41.647825,-84.005384,Success
+421,PETRO STOPPING CENTER #316,"I-40 & I-35, EXIT 127",Oklahoma City,OK,483,3.30233333,"I-40 & I-35, EXIT 127, Oklahoma City, OK",35.466955,-97.463967,Success
+424,E EXPRESS,"I-40, EXIT 166",Choctaw,OK,483,2.899,"I-40, EXIT 166, Choctaw, OK",35.405997,-97.295418,Success
