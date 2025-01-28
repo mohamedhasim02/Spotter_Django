@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Route Map</title>
+</head>
+<body>
+    <h1>Route Map and Total Fuel Price</h1>
+    <div id="total-price-container">
+        <span>Total Fuel Price: </span><span id="total-price" style="color: #90ee90;"></span>
+    </div>
+    <div id="map-container">
+        <!-- The map will be displayed here -->
+    </div>
+
+    <script>
+        // Data to be sent in the POST request
+        const data = {
+            "start_coordinates": {"longitude": -97.734419, "latitude": 30.282657},
+            "end_coordinates": {"longitude": -86.034478, "latitude": 42.821141},
+            "car_mpg": 10,
+            "car_max_miles": 500
+        };
+
+        // Making the POST request
+        fetch("https://spotter-django.vercel.app/api/gas_stations/map/info", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => response.json()) // Parse the JSON response
+        .then(data => {
+            // Insert the total fuel price into the page, with the number and dollar sign in green
+            const priceText = "$" + data.total_fuel_price.toFixed(2);
+            document.getElementById('total-price').innerHTML = priceText;
+
+            // Create a div and set the HTML as its content
+            const mapContainer = document.getElementById('map-container');
+            mapContainer.innerHTML = data.map; // Set the raw HTML as the map content
+        })
+        .catch(error => {
+            console.error("Error fetching the route map:", error);
+        });
+    </script>
+</body>
+</html>
